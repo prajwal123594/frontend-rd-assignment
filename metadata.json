@@ -1,0 +1,6 @@
+{
+  "name": "Performance-Critical Data Visualization Dashboard",
+  "description": "A high-performance responsive data visualization dashboard featuring KPI metrics, Chart.js 7-day revenue trend, and recent transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
